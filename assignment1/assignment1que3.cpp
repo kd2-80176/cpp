@@ -31,7 +31,7 @@ void printtStudent()
  {
     student s1;
     int choice;
-    char ch ='y';
+    char ch ;
     do{
       cout<<"ENTER YOUR CHOICE \n 1.DEFAULT VALUE \n 2.FOR ENTERING STUDENT DETAILS"<<endl;
       cin>>choice;  
